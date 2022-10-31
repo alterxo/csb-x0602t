@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "https://alterxo.github.io/csb-x0602t/static/js/main.abe14eb4.chunk.js",
-    "main.js.map": "https://alterxo.github.io/csb-x0602t/static/js/main.abe14eb4.chunk.js.map",
+    "main.js": "https://alterxo.github.io/csb-x0602t/static/js/main.0ef72921.chunk.js",
+    "main.js.map": "https://alterxo.github.io/csb-x0602t/static/js/main.0ef72921.chunk.js.map",
     "runtime-main.js": "https://alterxo.github.io/csb-x0602t/static/js/runtime-main.03d52621.js",
     "runtime-main.js.map": "https://alterxo.github.io/csb-x0602t/static/js/runtime-main.03d52621.js.map",
     "static/js/2.532c8030.chunk.js": "https://alterxo.github.io/csb-x0602t/static/js/2.532c8030.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.03d52621.js",
     "static/js/2.532c8030.chunk.js",
-    "static/js/main.abe14eb4.chunk.js"
+    "static/js/main.0ef72921.chunk.js"
   ]
 }
