@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "https://alterxo.github.io/csb-x0602t/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://alterxo.github.io/csb-x0602t/static/js/main.0863e2f9.chunk.js",
-    "main.js.map": "https://alterxo.github.io/csb-x0602t/static/js/main.0863e2f9.chunk.js.map",
+    "main.js": "https://alterxo.github.io/csb-x0602t/static/js/main.c08bbb9d.chunk.js",
+    "main.js.map": "https://alterxo.github.io/csb-x0602t/static/js/main.c08bbb9d.chunk.js.map",
     "runtime-main.js": "https://alterxo.github.io/csb-x0602t/static/js/runtime-main.03d52621.js",
     "runtime-main.js.map": "https://alterxo.github.io/csb-x0602t/static/js/runtime-main.03d52621.js.map",
-    "static/js/2.33f0bf01.chunk.js": "https://alterxo.github.io/csb-x0602t/static/js/2.33f0bf01.chunk.js",
-    "static/js/2.33f0bf01.chunk.js.map": "https://alterxo.github.io/csb-x0602t/static/js/2.33f0bf01.chunk.js.map",
+    "static/js/2.532c8030.chunk.js": "https://alterxo.github.io/csb-x0602t/static/js/2.532c8030.chunk.js",
+    "static/js/2.532c8030.chunk.js.map": "https://alterxo.github.io/csb-x0602t/static/js/2.532c8030.chunk.js.map",
     "index.html": "https://alterxo.github.io/csb-x0602t/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://alterxo.github.io/csb-x0602t/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://alterxo.github.io/csb-x0602t/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+    "static/js/2.532c8030.chunk.js.LICENSE.txt": "https://alterxo.github.io/csb-x0602t/static/js/2.532c8030.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.03d52621.js",
-    "static/js/2.33f0bf01.chunk.js",
-    "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.0863e2f9.chunk.js"
+    "static/js/2.532c8030.chunk.js",
+    "static/js/main.c08bbb9d.chunk.js"
   ]
 }
